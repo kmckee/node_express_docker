@@ -1,0 +1,15 @@
+{
+  "name": "node_express_docker",
+  "version": "1.0.0",
+  "description": "Start template with docker stuff.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle McKee",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
